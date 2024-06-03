@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "45777704322",
+    "project_id": "expense-tracker-ad788",
+    "storage_bucket": "expense-tracker-ad788.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45777704322:android:b60c909527f60ab8dc2b9b",
+        "android_client_info": {
+          "package_name": "com.example.athang_expense_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP481nwLNu26yt70UwwQa1d_5b3PEMVhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
